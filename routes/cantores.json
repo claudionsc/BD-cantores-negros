@@ -1,7 +1,82 @@
 [
-	null,
 	{
-		"name": "luis",
-		"id": "2"
+		"id": "1",
+		"nome": "Michael Jackson",
+		"albuns": "10",
+		"premios": "1002",
+		"idade": "50",
+		"maisfamosa": "Billie Jean"
+	},
+	{
+		"id": "2",
+		"nome": "Bob Marley",
+		"albuns": "13",
+		"premios": "4",
+		"idade": "36",
+		"maisfamosa": "Is This Love"
+	},
+	{
+		"id": "3",
+		"nome": "Djavan",
+		"albuns": "46",
+		"premios": "3",
+		"idade": "73",
+		"maisfamosa": "Sorri, Sou rei"
+	},
+	{
+		"id": "4",
+		"nome": "Mariah Carey",
+		"albuns": "15",
+		"premios": "339",
+		"idade": "53",
+		"maisfamosa": "I know what you want"
+	},
+	{
+		"id": "5",
+		"nome": "Whitney Houston",
+		"albuns": "7",
+		"premios": "425",
+		"idade": "48",
+		"maisfamosa": "Greatest Love of All"
+	},
+	{
+		"id": "6",
+		"nome": "Milton Nascimento",
+		"albuns": "46",
+		"premios": "4",
+		"idade": "79",
+		"maisfamosa": "Travessia"
+	},
+	{
+		"id": "7",
+		"nome": "Cassiano",
+		"albuns": "5",
+		"premios": "undf",
+		"idade": "77",
+		"maisfamosa": "A Lua e Eu"
+	},
+	{
+		"id": "8",
+		"nome": "Kanye West",
+		"albuns": "11",
+		"premios": "124",
+		"idade": "45",
+		"maisfamosa": "Gold Digger"
+	},
+	{
+		"id": "9",
+		"nome": "IZA",
+		"albuns": "23",
+		"premios": "1",
+		"idade": "32",
+		"maisfamosa": "Pesadão"
+	},
+	{
+		"id": "10",
+		"nome": "James Brown",
+		"albuns": "70",
+		"premios": "9",
+		"idade": "76",
+		"maisfamosa": "Get Up I Feel Like Being A Sex Machine"
 	}
 ]

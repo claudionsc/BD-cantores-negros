@@ -38,7 +38,7 @@ const userRoutes = (app) => {
         saveUser(cantores.map(cantor => {
             if (cantor.id === req.params.id) {
                 return {
-                    ...user,
+                    ...cantor,
                     ...req.body
                 }
             }
